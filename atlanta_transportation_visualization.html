@@ -128,6 +128,46 @@
     text-align: center; font-size: 0.8rem;
     color: #56d364; font-weight: 600; line-height: 1.5;
   }
+
+  /* Safety & Protection Framework */
+  .framework {
+    max-width: 900px; margin: 16px auto 0;
+    background: #161b22; border: 1px solid #30363d;
+    border-radius: 14px; padding: 20px 24px;
+  }
+  .framework h3 {
+    font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.1em; color: #8b949e;
+    margin-bottom: 16px; text-align: center;
+  }
+  .framework-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+  }
+  .fw-card {
+    background: #0d1117; border: 1px solid #21262d;
+    border-radius: 10px; padding: 14px 16px;
+  }
+  .fw-icon { font-size: 1.25rem; margin-bottom: 6px; }
+  .fw-title {
+    font-size: 0.82rem; font-weight: 700; color: #f0f6fc;
+    margin-bottom: 9px;
+  }
+  .fw-list { list-style: none; font-size: 0.75rem; }
+  .fw-list li {
+    color: #8b949e; padding: 2.5px 0;
+    display: flex; gap: 6px; align-items: flex-start;
+    line-height: 1.45; border-bottom: 1px solid #161b22;
+  }
+  .fw-list li:last-child { border-bottom: none; }
+  .fw-list li::before { content: '\2013'; flex-shrink: 0; color: #484f58; }
+  .fw-amber .fw-title  { color: #e3b341; }
+  .fw-green .fw-title  { color: #3fb950; }
+  .fw-blue  .fw-title  { color: #58a6ff; }
+  .fw-purple .fw-title { color: #a371f7; }
+  .fw-amber  { border-color: #4a2a00; }
+  .fw-green  { border-color: #0f4c2a; }
+  .fw-blue   { border-color: #0d2a6e; }
+  .fw-purple { border-color: #2d1a5e; }
 </style>
 </head>
 <body>
@@ -612,8 +652,64 @@
   </div>
 </div>
 
+<!-- Safety & Community Protection Framework -->
+<div class="framework">
+  <h3>Safety, Anti-Displacement &amp; Crime Prevention Framework</h3>
+  <div class="framework-grid">
+
+    <div class="fw-card fw-amber">
+      <div class="fw-icon">🏗️</div>
+      <div class="fw-title">Station Safety by Design (CPTED)</div>
+      <ul class="fw-list">
+        <li>Mandatory lighting standards on all platforms &amp; access paths (specified in lux)</li>
+        <li>Sightline requirements &mdash; no blind corners, enclosed alcoves, or dead zones</li>
+        <li>Platform screen doors on all underground &amp; elevated stations</li>
+        <li>Active ground-floor uses required at entrances (minimum 16 hrs/day)</li>
+        <li>Community-led pre-opening safety audits before every station launch</li>
+      </ul>
+    </div>
+
+    <div class="fw-card fw-green">
+      <div class="fw-icon">🚶</div>
+      <div class="fw-title">First &amp; Last Mile Safety</div>
+      <ul class="fw-list">
+        <li>Protected pedestrian crossings on all arterials within &frac14; mile of every station</li>
+        <li>Continuous sidewalk connections to surrounding neighborhoods (not just the platform)</li>
+        <li>Protected bike lanes connecting stations to the street grid</li>
+        <li>Traffic calming on high-speed arterials adjacent to suburban extensions</li>
+        <li>Full lighting on all pedestrian access routes, not just station platforms</li>
+      </ul>
+    </div>
+
+    <div class="fw-card fw-blue">
+      <div class="fw-icon">🏠</div>
+      <div class="fw-title">Enhanced Anti-Displacement</div>
+      <ul class="fw-list">
+        <li>Pre-announcement Transit Land Acquisition Fund &mdash; buy parcels before routes are confirmed</li>
+        <li>Anti-speculation tax on vacant land near planned stations; revenue funds CLT acquisitions</li>
+        <li>Legally binding Community Benefit Agreements (CBAs) with financial penalties for non-compliance</li>
+        <li>Commercial rent stabilization &amp; right of first refusal for legacy businesses (5+ yrs)</li>
+        <li>Displacement early-warning system tracking rent, evictions &amp; bulk ownership transfers</li>
+      </ul>
+    </div>
+
+    <div class="fw-card fw-purple">
+      <div class="fw-icon">🤝</div>
+      <div class="fw-title">Crime Prevention &amp; Public Safety</div>
+      <ul class="fw-list">
+        <li>Unarmed community ambassadors as primary station safety presence (de-escalation trained)</li>
+        <li>Civilian oversight board for MARTA police with subpoena power &amp; majority-Black membership</li>
+        <li>Mental health outreach &amp; social services co-located at Five Points, Airport, Murphy Crossing &amp; Clayton County stations</li>
+        <li>Income-based fare caps: $1 max for riders below 200% of federal poverty line</li>
+        <li>Free transit for youth under 18 &middot; Civil-only fare enforcement &mdash; no arrests, no criminal records</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
 <div class="equity-bar">
-  ✊ Equity-First Framework &mdash; No new highways through residential neighborhoods &middot; Community land trusts at every new station &middot; 60% of Phase 1 funding to underserved communities &middot; Community veto power over all development plans
+  ✊ Equity-First &mdash; No new highways through residential neighborhoods &middot; Pre-announcement land acquisition &middot; Community land trusts at every station &middot; CBAs with developer penalties &middot; CPTED design standards &middot; Unarmed community ambassadors &middot; Free transit for youth &middot; 60% of Phase 1 funding to underserved communities
 </div>
 
 </body>
