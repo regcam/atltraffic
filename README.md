@@ -394,6 +394,116 @@ Atlanta's highway system has a legacy of harm to Black communities:
 
 ---
 
+## Safety, Enhanced Anti-Displacement & Crime Prevention Framework
+
+### Station Safety by Design (CPTED)
+
+Crime Prevention Through Environmental Design (CPTED) is a well-evidenced framework that should govern the architecture and layout of every new station and station area. Research consistently shows that the physical environment of transit infrastructure is as important as policing in determining safety outcomes. The following principles must be mandatory standards in all station design contracts.
+
+**Lighting and visibility:**
+- Minimum lighting standards for all platforms, parking facilities, and pedestrian access paths — specified in lux levels, not left to designer discretion
+- Sightline requirements eliminating blind corners, enclosed waiting alcoves, and any area where a person cannot be seen from multiple angles
+- Full platform visibility from station entrances — no architectural dead zones
+
+**Active use and natural surveillance:**
+- Ground-floor active uses (retail, services, transit amenities) required at all station entrances, operating a minimum of 16 hours per day. Constant foot traffic is the single strongest deterrent to crime and is far more effective than cameras or police presence alone
+- Station designs must avoid large vacant plazas or open areas that become deserted after peak hours
+- Seating and shelter designed for genuine public comfort, not configured to prevent people from resting (hostile architecture is both ineffective and inhumane)
+
+**Platform and infrastructure safety:**
+- Platform screen doors on all underground and elevated stations — reduces both intentional harm and accidental falls
+- Emergency call stations every 100 feet on platforms and in parking structures, with direct connection to both MARTA operations and local 911
+- Real-time security coordination between station staff, community ambassadors, and emergency services
+- All new station designs must undergo a mandatory pre-opening safety audit conducted by community members, including people with disabilities, seniors, and parents with young children, with required remediation before opening
+
+### First/Last Mile Safety
+
+The most dangerous segment of any transit trip is getting to and from the station. Fatalities and injuries on streets adjacent to transit stations are preventable with proper infrastructure investment — and are disproportionately borne by pedestrians in lower-income communities where safe walking infrastructure has historically been absent. Every new station must include:
+
+- **Protected pedestrian crossings** on all arterial roads within a quarter mile of the station, with adequate signal timing, accessible controls, and raised crosswalks where feasible
+- **Continuous sidewalk connections** between stations and surrounding neighborhoods — currently absent on many corridors in Clayton County and South DeKalb where riders would be walking along road shoulders
+- **Protected bike lanes** connecting stations to the surrounding street grid, reducing pedestrian-vehicle conflict and extending the safe, car-free catchment area of each station
+- **Traffic calming** on high-speed roads adjacent to new stations — critical in suburban extensions where 45+ mph arterials currently dominate. Reduced speeds near transit stops save lives
+- **Adequate lighting on all access routes** between stations and the nearest residential blocks, not just on the station platform itself
+- **Station access audits** conducted by community members before each station opens, with mandatory remediation of identified hazards prior to service launch
+
+### Enhanced Anti-Displacement Protections
+
+The core anti-displacement commitments in this plan (community land trusts, 40% affordable housing requirements, right of return) are essential but insufficient on their own. The measures below address critical gaps — particularly the timing problem and the protection of commercial community institutions.
+
+**Pre-announcement land acquisition**
+
+Community land trusts and affordable housing requirements activate at construction, but land speculation begins the moment a station route is publicly confirmed. By then, investors have already acquired parcels and prices have spiked beyond what CLTs can compete with. The solution requires acting before the market does:
+- City and county governments, in partnership with CLTs, must acquire strategic parcels in station corridors **before** routes are publicly announced
+- A dedicated **Transit Land Acquisition Fund** should be established immediately, seeded with a portion of federal infrastructure grants, to purchase land in identified transit corridors at pre-announcement values
+- All acquired parcels to be deed-restricted for permanently affordable housing and community-serving commercial uses
+
+**Anti-speculation tax**
+- A surcharge on vacant or underdeveloped land within half a mile of planned transit stations, applied upon official route announcement
+- Revenue from the tax flows directly into the Transit Land Acquisition Fund
+- Sunset clause: tax ends once affordable development targets for the station area are met
+- Exemptions for owner-occupied properties and small businesses operating on-site
+
+**Legally binding Community Benefit Agreements (CBAs)**
+
+Advisory boards and policy requirements can be reversed by future administrations. CBAs are enforceable contracts between developers and community coalitions that survive changes in political leadership. Every major development within half a mile of a new station must execute a CBA specifying:
+- Affordable unit percentages and income targeting (at or below 30%, 60%, and 80% AMI)
+- Local hiring commitments with verified reporting
+- Community amenity requirements (green space, childcare, community meeting space)
+- Ongoing third-party monitoring and annual public reporting
+- Remedies and financial penalties for non-compliance
+
+**Legacy business and institution protection**
+
+The plan protects housing but not the Black-owned businesses, barbershops, beauty salons, churches, and community institutions that define these neighborhoods and have survived decades of disinvestment. Without protection, these anchors of community identity are often the first to disappear when neighborhoods gentrify:
+- **Commercial rent stabilization** in transit station corridors, limiting annual rent increases for existing commercial tenants to CPI or 3%, whichever is lower
+- **Right of first refusal** for businesses operating in the station area for 5+ years when their commercial space is redeveloped or changes hands
+- **Small business relocation assistance**, funded by developer impact fees, for any commercial tenant displaced by station construction
+- **Legacy institution preservation fund** providing grants to churches, community centers, and nonprofits facing property tax increases or displacement pressure resulting from transit-induced neighborhood change
+
+**Displacement early-warning system**
+
+Atlanta should not wait until displacement is visible to respond to it. A monitoring system established now — before any station is built — tracks leading indicators so that intervention can happen before the crisis:
+- Month-over-month rent changes in ZIP codes adjacent to proposed and approved station corridors
+- Eviction filing rates by neighborhood, updated quarterly
+- Property ownership transfers, flagging bulk acquisitions by corporate entities
+- Business license renewals and lapses in station corridors
+- Demographic change indicators from annual census surveys
+
+When indicators cross defined thresholds, the system triggers mandatory review by community boards and deployment of anti-displacement resources including emergency CLT acquisition funds, tenant legal assistance, and small business stabilization grants. Portland, Seattle, and Denver have implemented similar early-warning systems with measurable reductions in displacement rates.
+
+### Crime Prevention and Public Safety
+
+**Community ambassador model — replacing traditional transit policing**
+
+MARTA has a documented history of over-policing Black and low-income riders, including disproportionate enforcement of fare evasion and loitering statutes that effectively criminalize poverty. Expanding the rail network using the same policing model will replicate these harms at scale. This plan calls for a fundamentally different approach:
+- Unarmed **community ambassadors** serve as the primary safety presence at all stations — trained in de-escalation, mental health first aid, conflict mediation, and social services referral, not law enforcement
+- Ambassadors are hired preferentially from the communities each station serves, creating local employment and building genuine trust
+- The ambassador model has been implemented at Denver RTD, San Jose VTA, and LA Metro's B Division with measurable improvements in both safety outcomes and rider experience
+- Armed MARTA police retain jurisdiction for serious criminal matters but are explicitly not the first responder for quality-of-life incidents, mental health crises, or fare disputes
+- A **civilian oversight board** for MARTA police, with a majority of members from communities most impacted by over-policing — predominantly Black, South Atlanta, and Clayton County residents — with subpoena power and authority to recommend discipline and policy changes
+
+**Social services co-location at major stations**
+
+Mental health crises and houselessness are among the most common drivers of transit-related incidents, and criminalization has not reduced either. Addressing root causes requires:
+- Mental health outreach workers and crisis responders stationed at Five Points, Airport, Lindbergh Center, Murphy Crossing, and all new Clayton County stations during operating hours
+- Case management and housing navigation services available during peak hours at major transfer stations
+- Harm reduction services, including overdose reversal medication and supplies, available at all stations
+- Formal coordination agreements with city and county social services agencies for warm handoffs to shelter, treatment, and housing programs
+- Dedicated funding stream from the regional transportation sales tax for station-based social services, recognizing that safety and social welfare are inseparable
+
+This model is operating successfully at Portland's Union Station and LA Metro's Union Station, with documented reductions in both serious incidents and arrests.
+
+**Fare equity — ending the criminalization of poverty**
+
+Fare evasion enforcement is one of the primary contact points between transit police and low-income Black riders. In every U.S. transit system where data has been rigorously analyzed, fare enforcement falls disproportionately on Black and Latino riders regardless of actual evasion rates — not because of intentional bias in individual officers, but because enforcement concentrates on stations and lines serving lower-income communities:
+- **Income-based fare caps**: riders below 200% of the federal poverty line pay no more than $1 per trip, funded through the regional transportation sales tax. Modeled on Washington D.C.'s reduced fare program and Boston's reduced fare initiative, both of which increased ridership and farebox revenue by bringing in consistent low-income riders who previously couldn't afford to ride
+- **Free transit for youth under 18**: eliminates the most significant contact point between transit police and minors; already implemented in over 30 U.S. cities including Kansas City (MO) and Olympia (WA), with no evidence of increased disorder
+- **Elimination of criminal penalties for fare evasion**: civil fines only, with ability-to-pay provisions and community service alternatives. No arrests, no criminal records, no contact with the criminal justice system for the act of riding without paying
+- **Fare gates as service infrastructure, not enforcement infrastructure**: new station gates designed to manage flow and collect fares, not to trap or detain riders — no turnstile designs that lock or restrict exit
+
+---
+
 ## Revised Implementation Strategy (Equity-Centered)
 
 ### Phase 1 (Years 1-5): SOUTHSIDE FIRST
